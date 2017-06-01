@@ -1,5 +1,4 @@
 # Login con Google 
-___
 
 Para introducir el Google Sign-In en nuestra aplicación Android, lo primero que debemos de realizar es obtener el archivo de configuración que nos proporciona Google, por tanto accedemos a [Get Configuration File](https://developers.google.com/mobile/add?platform=android&cntapi=signin&cnturl=https:%2F%2Fdevelopers.google.com%2Fidentity%2Fsign-in%2Fandroid%2Fsign-in%3Fconfigured%3Dtrue&cntlbl=Continue%20Adding%20Sign-In), una vez dentro nos pedirá información de nuestra App:
 
